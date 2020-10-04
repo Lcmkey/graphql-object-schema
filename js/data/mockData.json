@@ -1,0 +1,36 @@
+{
+  "people": [
+    {
+      "id": "0001",
+      "first_name": "test",
+      "last_name": "0001",
+      "email": "lcm@samleung.me",
+      "username": "sam.leung",
+      "friends": ["0002", "0003", "0004"]
+    },
+    {
+      "id": "0002",
+      "first_name": ">>>",
+      "last_name": "0002",
+      "email": "lcm@samleung.me",
+      "username": "sam.leung",
+      "friends": ["0001", "0003", "0004"]
+    },
+    {
+      "id": "0003",
+      "first_name": "---",
+      "last_name": "0003",
+      "email": "lcm@samleung.me",
+      "username": "sam.leung",
+      "friends": []
+    },
+    {
+      "id": "0004",
+      "first_name": "<<<",
+      "last_name": "0004",
+      "email": "lcm@samleung.me",
+      "username": "sam.leung",
+      "friends": []
+    }
+  ]
+}
